@@ -30,3 +30,4 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <a href="mailto:vithyashagar98@gmail.com">Gmail</a>
 
+![Vithyashagar's github stats](https://github-readme-stats.vercel.app/api?username=Vithyashagar&show_icons=true&theme=dark)
