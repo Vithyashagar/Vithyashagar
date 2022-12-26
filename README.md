@@ -6,7 +6,7 @@
 
 <h3> 🛠 &nbsp;Familier Technologies & Tools </h3>
 
-- ![Python]([https://icons8.com/icon/121465/python](https://www.flaticon.com/free-icon/python_4299932?term=python&page=1&position=8&origin=search&related_id=4299932))
+- ![Python](https://www.flaticon.com/free-icon/python_4299932?term=python&page=1&position=8&origin=search&related_id=4299932)
   ![Java](https://img.icons8.com/metro/24/ffffff/java-coffee-cup-logo.png)
   ![C++](https://img.icons8.com/ios-filled/24/ffffff/c-plus-plus-logo.png)
 
