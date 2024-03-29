@@ -1,7 +1,7 @@
 <img width="35%" align="right" alt="Github" src="https://media.giphy.com/media/IpeYSEZshTefe/source.gif" />
 
 - Howdy! 👋 I’m Vithyashagar
-- 👨‍🎓 Under graduate, Learning Data Science
+- 👨‍🎓 Learning and Practicising Data Science
 - 👀 Exploring new technologies
 
 <h3> 🛠 &nbsp;Familier Technologies & Tools </h3>
